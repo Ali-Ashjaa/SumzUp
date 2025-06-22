@@ -4,7 +4,7 @@ import { Provider} from "react-redux"
 import App from "./App";
 import { store } from './services/store'
 
-const port = process.env.PORT || 4000 
+
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
